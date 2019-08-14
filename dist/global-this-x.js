@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-14T13:34:37.330Z",
+  "date": "2019-08-14T14:26:40.522Z",
   "describe": "",
   "description": "Get globalThis.",
   "file": "global-this-x.js",
   "hash": "14908edada9b16d8243f",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {

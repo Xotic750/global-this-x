@@ -1,6 +1,6 @@
 {
   "name": "global-this-x",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get globalThis.",
   "homepage": "https://github.com/Xotic750/global-this-x",
   "author": {
@@ -50,7 +50,7 @@
     "url": "https://github.com/Xotic750/global-this-x/issues"
   },
   "dependencies": {
-    "attempt-x": "^2.0.23"
+    "attempt-x": "^2.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
