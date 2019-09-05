@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-09-04T22:33:03.275Z",
+  "date": "2019-09-05T18:37:49.956Z",
   "describe": "",
   "description": "Get globalThis.",
   "file": "global-this-x.js",
